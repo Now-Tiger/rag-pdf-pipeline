@@ -7,6 +7,7 @@ from src.extraction import scanned_multilingual_pdf_extractor, digital_multiling
 from src.chunking import chunk_texts
 from src.embeddings import generate_embeddings
 
+
 def main():
     base_folder: str = "data/pdfs"
     classify_pdfs_in_subfolders(base_folder, output_path="data/classification_report.json")
