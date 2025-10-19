@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-10-18T00:20:58.409969",
+  "base_folder": "data/pdfs",
+  "page_sample_size": 10,
+  "text_threshold": 50,
+  "results": {
+    "ur": {
+      "scanned_pdfs": [
+        "Notification-for-Other-Nationals.pdf",
+        "حیات جاوید، سوانح سر سید احمد خاں.pdf",
+        "12-Rabiul-Awal-2024.pdf",
+        "Extension-of-Ahdoc-Employees.pdf",
+        "Solidarity-Day.pdf"
+      ],
+      "digital_pdfs": [
+        "shora e rampur.pdf",
+        "fasana-e-ajaib final.pdf"
+      ]
+    },
+    "zh": {
+      "scanned_pdfs": [],
+      "digital_pdfs": [
+        "P020230907694757200665.pdf",
+        "P020230313555181904759.pdf",
+        "P020230907695746624812.pdf"
+      ]
+    },
+    "bn": {
+      "scanned_pdfs": [
+        "471 (TO).pdf",
+        "AP Ramjan.pdf",
+        "15092024_142.pdf"
+      ],
+      "digital_pdfs": [
+        "Research Nirdeshika.pdf",
+        "NEC-14.pdf",
+        "আহম্মেদNOC.pdf"
+      ]
+    }
+  }
+}

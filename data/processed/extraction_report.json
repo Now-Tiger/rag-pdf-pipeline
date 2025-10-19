@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-10-17T21:06:01",
+  "total_pdfs_processed": 8,
+  "successful": 7,
+  "failed": 1,
+  "total_pages_extracted": 370,
+  "total_pages_skipped": 75,
+  "total_processing_time": "1.96s",
+  "average_time_per_pdf": "0.25s",
+  "output_directory": "data/processed/extracted_md",
+  "successful_extractions": [
+    {
+      "filename": "fasana-e-ajaib final.pdf",
+      "language": "ur",
+      "success": true,
+      "pages_processed": 101,
+      "pages_with_images_skipped": 2,
+      "output_path": "data/processed/extracted_md/ur/fasana-e-ajaib final.md",
+      "error": null,
+      "processing_time": 0.22655415534973145
+    },
+    {
+      "filename": "shora e rampur.pdf",
+      "language": "ur",
+      "success": true,
+      "pages_processed": 145,
+      "pages_with_images_skipped": 2,
+      "output_path": "data/processed/extracted_md/ur/shora e rampur.md",
+      "error": null,
+      "processing_time": 0.597883939743042
+    },
+    {
+      "filename": "P020230313555181904759.pdf",
+      "language": "zh",
+      "success": true,
+      "pages_processed": 43,
+      "pages_with_images_skipped": 17,
+      "output_path": "data/processed/extracted_md/zh/P020230313555181904759.md",
+      "error": null,
+      "processing_time": 0.7252931594848633
+    },
+    {
+      "filename": "NEC-14.pdf",
+      "language": "bn",
+      "success": true,
+      "pages_processed": 2,
+      "pages_with_images_skipped": 0,
+      "output_path": "data/processed/extracted_md/bn/NEC-14.md",
+      "error": null,
+      "processing_time": 0.010682106018066406
+    },
+    {
+      "filename": "P020230907695746624812.pdf",
+      "language": "zh",
+      "success": true,
+      "pages_processed": 41,
+      "pages_with_images_skipped": 19,
+      "output_path": "data/processed/extracted_md/zh/P020230907695746624812.md",
+      "error": null,
+      "processing_time": 0.6850271224975586
+    },
+    {
+      "filename": "আহম্মেদNOC.pdf",
+      "language": "bn",
+      "success": true,
+      "pages_processed": 1,
+      "pages_with_images_skipped": 1,
+      "output_path": "data/processed/extracted_md/bn/আহম্মেদNOC.md",
+      "error": null,
+      "processing_time": 0.2209150791168213
+    },
+    {
+      "filename": "P020230907694757200665.pdf",
+      "language": "zh",
+      "success": true,
+      "pages_processed": 37,
+      "pages_with_images_skipped": 23,
+      "output_path": "data/processed/extracted_md/zh/P020230907694757200665.md",
+      "error": null,
+      "processing_time": 1.313086986541748
+    }
+  ],
+  "failed_extractions": [
+    {
+      "filename": "Research Nirdeshika.pdf",
+      "language": "bn",
+      "success": false,
+      "pages_processed": 0,
+      "pages_with_images_skipped": 11,
+      "output_path": null,
+      "error": "No text content extracted (all pages empty or image-only)",
+      "processing_time": 1.0155551433563232
+    }
+  ]
+}

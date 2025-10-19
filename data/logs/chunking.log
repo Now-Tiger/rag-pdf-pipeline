@@ -1,0 +1,18 @@
+2025-10-18 02:00:26 | CHUNKING START: files=16, workers=8, max_tokens=250, overlap=50
+2025-10-18 02:00:26 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/ur/Extension-of-Ahdoc-Employees.md -> chunks=5
+2025-10-18 02:00:26 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/bn/NEC-14.md -> chunks=8
+2025-10-18 02:00:26 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/ur/Solidarity-Day.md -> chunks=4
+2025-10-18 02:00:26 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/bn/471 (TO).md -> chunks=13
+2025-10-18 02:00:26 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/ur/Notification-for-Other-Nationals.md -> chunks=8
+2025-10-18 02:00:27 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/bn/আহম্মেদNOC.md -> chunks=19
+2025-10-18 02:00:27 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/ur/12-Rabiul-Awal-2024.md -> chunks=21
+2025-10-18 02:00:27 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/bn/15092024_142.md -> chunks=30
+2025-10-18 02:00:27 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/bn/AP Ramjan.md -> chunks=34
+2025-10-18 02:00:27 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/ur/fasana-e-ajaib final.md -> chunks=134
+2025-10-18 02:00:27 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/ur/shora e rampur.md -> chunks=108
+2025-10-18 02:00:27 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/bn/Research Nirdeshika.md -> chunks=158
+2025-10-18 02:00:28 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/zh/P020230907694757200665.md -> chunks=764
+2025-10-18 02:00:28 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/zh/P020230313555181904759.md -> chunks=947
+2025-10-18 02:00:28 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/zh/P020230907695746624812.md -> chunks=976
+2025-10-18 02:00:29 | CHUNKED: /Users/a1/Documents/AI/rag-pdf-pipeline/data/processed/extracted_md/ur/حیات جاوید، سوانح سر سید احمد خاں.md -> chunks=3462
+2025-10-18 02:00:30 | CHUNKING COMPLETE: docs=16, chunks=6691

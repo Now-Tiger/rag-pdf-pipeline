@@ -1,0 +1,75 @@
+2025-10-17 20:01:16,334 - INFO - Loaded classification report from data/classification_report.json
+2025-10-17 20:01:16,334 - INFO - Starting extraction process...
+2025-10-17 20:01:16,334 - INFO - Found 8 digital PDFs to process
+2025-10-17 20:01:16,630 - ERROR - ✗ Failed to extract fasana-e-ajaib final.pdf: bad filename: type(filename)=<class 'pymupdf.Page'> filename=page 1 of data/pdfs/ur/fasana-e-ajaib final.pdf.
+2025-10-17 20:01:16,781 - ERROR - ✗ Failed to extract shora e rampur.pdf: bad filename: type(filename)=<class 'pymupdf.Page'> filename=page 1 of data/pdfs/ur/shora e rampur.pdf.
+2025-10-17 20:01:17,238 - ERROR - ✗ Failed to extract P020230313555181904759.pdf: bad filename: type(filename)=<class 'pymupdf.Page'> filename=page 2 of data/pdfs/zh/P020230313555181904759.pdf.
+2025-10-17 20:01:17,252 - ERROR - ✗ Failed to extract NEC-14.pdf: bad filename: type(filename)=<class 'pymupdf.Page'> filename=page 0 of data/pdfs/bn/NEC-14.pdf.
+2025-10-17 20:01:17,267 - ERROR - ✗ Failed to extract P020230907695746624812.pdf: bad filename: type(filename)=<class 'pymupdf.Page'> filename=page 2 of data/pdfs/zh/P020230907695746624812.pdf.
+2025-10-17 20:01:17,472 - ERROR - ✗ Failed to extract আহম্মেদNOC.pdf: bad filename: type(filename)=<class 'pymupdf.Page'> filename=page 0 of data/pdfs/bn/আহম্মেদNOC.pdf.
+2025-10-17 20:01:21,511 - ERROR - ✗ Failed to extract P020230907694757200665.pdf: bad filename: type(filename)=<class 'pymupdf.Page'> filename=page 2 of data/pdfs/zh/P020230907694757200665.pdf.
+2025-10-17 20:01:21,618 - INFO - 
+============================================================
+2025-10-17 20:01:21,618 - INFO - EXTRACTION COMPLETE
+2025-10-17 20:01:21,618 - INFO - ============================================================
+2025-10-17 20:01:21,618 - INFO - Total PDFs: 8
+2025-10-17 20:01:21,618 - INFO - Successful: 0
+2025-10-17 20:01:21,618 - INFO - Failed: 8
+2025-10-17 20:01:21,618 - INFO - Pages Extracted: 0
+2025-10-17 20:01:21,618 - INFO - Pages Skipped (images): 11
+2025-10-17 20:01:21,618 - INFO - Total Time: 5.28s
+2025-10-17 20:01:21,619 - INFO - Average Time/PDF: 0.66s
+2025-10-17 20:01:21,619 - INFO - ============================================================
+
+2025-10-17 20:01:21,620 - INFO - Report saved to data/processed/extraction_report.json
+2025-10-17 20:01:21,621 - WARNING - 8 PDFs failed to process. Check the report for details.
+2025-10-17 20:55:18,965 - INFO - Loaded classification report from data/classification_report.json
+2025-10-17 20:55:18,965 - INFO - Starting extraction process...
+2025-10-17 20:55:18,965 - INFO - Found 8 digital PDFs to process
+2025-10-17 20:55:26,395 - INFO - ✓ Extracted fasana-e-ajaib final.pdf (ur): 102/104 pages, skipped 2 image pages, 7.22s
+2025-10-17 20:55:28,903 - INFO - ✓ Extracted P020230907694757200665.pdf (zh): 37/60 pages, skipped 23 image pages, 9.72s
+2025-10-17 20:55:29,730 - INFO - ✓ Extracted P020230313555181904759.pdf (zh): 43/60 pages, skipped 17 image pages, 10.55s
+2025-10-17 20:55:29,868 - INFO - ✓ Extracted NEC-14.pdf (bn): 2/2 pages, skipped 0 image pages, 0.14s
+2025-10-17 20:55:30,177 - INFO - ✓ Extracted আহম্মেদNOC.pdf (bn): 2/3 pages, skipped 1 image pages, 0.31s
+2025-10-17 20:55:36,945 - INFO - ✓ Extracted P020230907695746624812.pdf (zh): 41/60 pages, skipped 19 image pages, 10.55s
+2025-10-17 20:55:40,150 - INFO - ✓ Extracted shora e rampur.pdf (ur): 146/148 pages, skipped 2 image pages, 20.98s
+2025-10-17 20:55:40,297 - INFO - 
+============================================================
+2025-10-17 20:55:40,298 - INFO - EXTRACTION COMPLETE
+2025-10-17 20:55:40,298 - INFO - ============================================================
+2025-10-17 20:55:40,298 - INFO - Total PDFs: 8
+2025-10-17 20:55:40,298 - INFO - Successful: 7
+2025-10-17 20:55:40,298 - INFO - Failed: 1
+2025-10-17 20:55:40,298 - INFO - Pages Extracted: 373
+2025-10-17 20:55:40,298 - INFO - Pages Skipped (images): 75
+2025-10-17 20:55:40,298 - INFO - Total Time: 21.33s
+2025-10-17 20:55:40,298 - INFO - Average Time/PDF: 2.67s
+2025-10-17 20:55:40,298 - INFO - ============================================================
+
+2025-10-17 20:55:40,301 - INFO - Report saved to data/processed/extraction_report.json
+2025-10-17 20:55:40,301 - WARNING - 1 PDFs failed to process. Check the report for details.
+2025-10-17 21:05:59,909 - INFO - Loaded classification report from data/classification_report.json
+2025-10-17 21:05:59,909 - INFO - Starting extraction process...
+2025-10-17 21:05:59,909 - INFO - Found 8 digital PDFs to process
+2025-10-17 21:06:00,354 - INFO - ✓ Extracted fasana-e-ajaib final.pdf (ur): 101/104 pages, skipped 2 image pages, 0.23s
+2025-10-17 21:06:00,725 - INFO - ✓ Extracted shora e rampur.pdf (ur): 145/148 pages, skipped 2 image pages, 0.60s
+2025-10-17 21:06:00,859 - INFO - ✓ Extracted P020230313555181904759.pdf (zh): 43/60 pages, skipped 17 image pages, 0.73s
+2025-10-17 21:06:00,870 - INFO - ✓ Extracted NEC-14.pdf (bn): 2/2 pages, skipped 0 image pages, 0.01s
+2025-10-17 21:06:01,040 - INFO - ✓ Extracted P020230907695746624812.pdf (zh): 41/60 pages, skipped 19 image pages, 0.69s
+2025-10-17 21:06:01,092 - INFO - ✓ Extracted আহম্মেদNOC.pdf (bn): 1/3 pages, skipped 1 image pages, 0.22s
+2025-10-17 21:06:01,446 - INFO - ✓ Extracted P020230907694757200665.pdf (zh): 37/60 pages, skipped 23 image pages, 1.31s
+2025-10-17 21:06:01,869 - INFO - 
+============================================================
+2025-10-17 21:06:01,870 - INFO - EXTRACTION COMPLETE
+2025-10-17 21:06:01,870 - INFO - ============================================================
+2025-10-17 21:06:01,870 - INFO - Total PDFs: 8
+2025-10-17 21:06:01,870 - INFO - Successful: 7
+2025-10-17 21:06:01,870 - INFO - Failed: 1
+2025-10-17 21:06:01,870 - INFO - Pages Extracted: 370
+2025-10-17 21:06:01,870 - INFO - Pages Skipped (images): 75
+2025-10-17 21:06:01,870 - INFO - Total Time: 1.96s
+2025-10-17 21:06:01,870 - INFO - Average Time/PDF: 0.25s
+2025-10-17 21:06:01,870 - INFO - ============================================================
+
+2025-10-17 21:06:01,871 - INFO - Report saved to data/processed/extraction_report.json
+2025-10-17 21:06:01,871 - WARNING - 1 PDFs failed to process. Check the report for details.
