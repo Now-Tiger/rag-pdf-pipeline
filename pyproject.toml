@@ -1,0 +1,35 @@
+[project]
+name = "rag-pdf-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "chromadb>=1.1.1",
+  "google-genai>=1.44.0",
+  "grpcio==1.60.1",
+  "langchain>=1.0.0",
+  "langdetect>=1.0.9",
+  "langgraph>=1.0.0",
+  "numpy<2.0",
+  "opencv-python==4.9.0.80",
+  "pdf2image>=1.17.0",
+  "pdfminer-six>=20250506",
+  "pillow>=11.3.0",
+  "pymupdf>=1.26.5",
+  "pypdf>=6.1.1",
+  "pytesseract>=0.3.13",
+  "python-dotenv>=1.1.1",
+  "rich>=14.2.0",
+  "sacremoses>=0.1.1",
+  "sentence-transformers==2.3.1",
+  "tiktoken>=0.12.0",
+  "torch>=2.2.2",
+  "tqdm>=4.67.1",
+  "transformers==4.41.2",
+]
+
+[tool.uv]
+required-environments = [
+  "sys_platform == 'darwin' and platform_machine == 'x86_64'",
+]
