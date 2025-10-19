@@ -1,14 +1,15 @@
 # 📚 RAG PDF Pipeline with Multilingual Support & Chat Memory
 
+![image](./data/public/3_urdu_question_asked_in_english.png)
+more in `./data/public/`
+
+---
+
 ## 📝 Overview
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system capable of performing **question answering over PDF documents** in multiple languages (English, Chinese, Urdu, Bengali, etc.).
 
 The system integrates advanced features like **chat memory, query decomposition, hybrid search, metadata filtering, and LLM-based answer generation**, with persistent memory for conversation history and optimized embeddings for multilingual semantic search.
-
----
-
-![image](./data/public/3_urdu_question_asked_in_english.png)
 
 ---
 
